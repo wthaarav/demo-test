@@ -1,4 +1,4 @@
-# demo-test
+o# demo-test
 this is demo app to learn github commands
 #1. how to clone repo
  git clone {ssh://repo url}
@@ -14,5 +14,5 @@ this is demo app to learn github commands
 #5. how to check if there are any changes in you local machine?
 git status 
 
-#6. how to pull changes from remote repo to local??
+#6. how to pull changes from remote repo to local?
 git pull
