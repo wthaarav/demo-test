@@ -16,3 +16,5 @@ git status
 
 #6. how to pull changes from remote repo to local?
 git pull
+#7. how to create a new branch?
+git checkout -b "feature/{}-msg"
