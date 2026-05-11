@@ -13,3 +13,6 @@ this is demo app to learn github commands
 
 #5. how to check if there are any changes in you local machine?
 git status 
+
+#6. how to pull changes from remote repo to local?
+git pull
